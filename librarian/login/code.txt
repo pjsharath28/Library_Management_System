@@ -1,0 +1,3 @@
+http://localhost/phpLoginUdemyCourse/code.php?email=jeo@f&code=f8aad93934b9e2333a5f174d4d6159ec
+
+http://localhost/lms/librarian/login/activate.php?email=admin@gmail.com&code=f997f4485833d14e63473a0baa811ed1
